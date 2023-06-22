@@ -1,0 +1,904 @@
+1636493595769	geckodriver	INFO	Listening on 127.0.0.1:40225
+1636493596135	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38139" "-no-remote" "-profile" "/tmp/rust_mozprofileM7uOT1"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636493596474	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileM7uOT1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38139/devtools/browser/71745304-2756-48cb-9f97-0c4f0c096cc7
+1636493597399	Marionette	INFO	Listening on port 42603
+1636493597446	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636493598096	Marionette	INFO	Stopped listening on port 42603
+JavaScript error: resource://services-settings/Utils.jsm, line 117: TypeError: NetworkError: Network request failed
+1636493600727	geckodriver	INFO	Listening on 127.0.0.1:60369
+1636493601107	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36185" "-no-remote" "-profile" "/tmp/rust_mozprofilehCMHrh"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636493601447	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehCMHrh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36185/devtools/browser/3c2339bf-49f4-4a2d-a1ef-c81fe31dc97b
+1636493602221	Marionette	INFO	Listening on port 34731
+1636493602331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636493602946	Marionette	INFO	Stopped listening on port 34731
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource://services-settings/Utils.jsm, line 117: TypeError: NetworkError: Network request failed
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636493628831	geckodriver	INFO	Listening on 127.0.0.1:56373
+1636493629199	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59409" "-no-remote" "-profile" "/tmp/rust_mozprofilehGrxvX"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636493629539	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehGrxvX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59409/devtools/browser/fb8dbbd8-fc96-4ed5-8c13-2687febf8c9d
+1636493630531	Marionette	INFO	Listening on port 35127
+1636493630618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+1636493631981	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonmail.com/646700e4-dc8e-495e-ac60-a8821865ffe7, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://account.protonmail.com/646700e4-dc8e-495e-ac60-a8821865ffe7, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonmail.com/646700e4-dc8e-495e-ac60-a8821865ffe7, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.protonmail.com"
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://mail.protonmail.com/dd355388-c956-45ca-b188-e10e0e690171, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/dd355388-c956-45ca-b188-e10e0e690171, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://mail.protonmail.com/dd355388-c956-45ca-b188-e10e0e690171, line 0: Successfully compiled asm.js code (total compilation time 25ms)
+1636493879602	Marionette	INFO	Stopped listening on port 35127
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636493881433	geckodriver	INFO	Listening on 127.0.0.1:34701
+1636493881804	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58155" "-no-remote" "-profile" "/tmp/rust_mozprofileHkJ5bd"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636493882148	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHkJ5bd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58155/devtools/browser/3a153aaa-0a9b-4457-a99b-19b5ce3eda84
+1636493883051	Marionette	INFO	Listening on port 41187
+1636493883122	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+1636493884460	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonmail.com/d03f60cc-32d4-4441-ad2d-6bece330581d, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://account.protonmail.com/d03f60cc-32d4-4441-ad2d-6bece330581d, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonmail.com/d03f60cc-32d4-4441-ad2d-6bece330581d, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.protonmail.com"
+1636493959185	geckodriver	INFO	Listening on 127.0.0.1:57273
+1636493959552	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48681" "-no-remote" "-profile" "/tmp/rust_mozprofileBoLn8V"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636493959893	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBoLn8V/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48681/devtools/browser/c176b0bd-6c5c-45e1-b681-e0f5ace8bcbe
+1636493961105	Marionette	INFO	Listening on port 43767
+1636493961164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+1636493962515	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://account.protonmail.com/d05b671b-d88b-47cb-a159-909a71cc272f, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://account.protonmail.com/d05b671b-d88b-47cb-a159-909a71cc272f, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonmail.com/d05b671b-d88b-47cb-a159-909a71cc272f, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+1636493976995	Marionette	INFO	Stopped listening on port 41187
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636493978044	Marionette	INFO	Stopped listening on port 43767
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1636494036854	geckodriver	INFO	Listening on 127.0.0.1:55923
+1636494037219	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44783" "-no-remote" "-profile" "/tmp/rust_mozprofilex0fOwx"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636494037560	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilex0fOwx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44783/devtools/browser/326e90dd-7869-49ef-bef4-79815861ccc6
+1636494038599	Marionette	INFO	Listening on port 40183
+1636494038629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 15ms)
+1636494039911	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonmail.com/90e64724-09a1-425f-86d0-17a6dfa39832, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://account.protonmail.com/90e64724-09a1-425f-86d0-17a6dfa39832, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonmail.com/90e64724-09a1-425f-86d0-17a6dfa39832, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.protonmail.com"
+1636494072780	Marionette	INFO	Stopped listening on port 40183
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636494086392	geckodriver	INFO	Listening on 127.0.0.1:34615
+1636494086761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48781" "-no-remote" "-profile" "/tmp/rust_mozprofileCOaavo"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636494087104	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCOaavo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48781/devtools/browser/627c1955-8086-4180-b7c4-ee52c81a4dc9
+1636494088109	Marionette	INFO	Listening on port 39437
+1636494088176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+1636494089449	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonmail.com/963208f0-d71f-4512-9abe-ac1eafeeeec1, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://account.protonmail.com/963208f0-d71f-4512-9abe-ac1eafeeeec1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonmail.com/963208f0-d71f-4512-9abe-ac1eafeeeec1, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.protonmail.com"
+1636494122636	Marionette	INFO	Stopped listening on port 39437
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1636494190586	geckodriver	INFO	Listening on 127.0.0.1:48691
+1636494190951	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52119" "-no-remote" "-profile" "/tmp/rust_mozprofileqS9iIL"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636494191321	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqS9iIL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52119/devtools/browser/76a67058-3d24-4f71-aae6-f37efb4ea886
+1636494192295	Marionette	INFO	Listening on port 42039
+1636494192375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+1636494194765	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonmail.com/6cdf1b14-25ae-4b7d-a1e5-79a1b5e66613, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://account.protonmail.com/6cdf1b14-25ae-4b7d-a1e5-79a1b5e66613, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonmail.com/6cdf1b14-25ae-4b7d-a1e5-79a1b5e66613, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://mail.protonmail.com/54eca846-8a31-4bbb-abee-38f305a9dd9f, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/54eca846-8a31-4bbb-abee-38f305a9dd9f, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://mail.protonmail.com/54eca846-8a31-4bbb-abee-38f305a9dd9f, line 0: Successfully compiled asm.js code (total compilation time 23ms)
+1636494501620	Marionette	INFO	Stopped listening on port 42039
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636494503183	geckodriver	INFO	Listening on 127.0.0.1:51305
+1636494503552	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50555" "-no-remote" "-profile" "/tmp/rust_mozprofileTnuo9V"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636494503903	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTnuo9V/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50555/devtools/browser/0118f506-2956-4932-9bfb-8d45c7808fe8
+1636494504739	Marionette	INFO	Listening on port 41891
+1636494504781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 11ms)
+1636494506485	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonmail.com/69ef2993-0a0b-4bc3-bd05-26d7aa0c84fe, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://account.protonmail.com/69ef2993-0a0b-4bc3-bd05-26d7aa0c84fe, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonmail.com/69ef2993-0a0b-4bc3-bd05-26d7aa0c84fe, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://mail.protonmail.com/55a91bab-59bd-4b3c-b110-99e3fec53360, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/55a91bab-59bd-4b3c-b110-99e3fec53360, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://mail.protonmail.com/55a91bab-59bd-4b3c-b110-99e3fec53360, line 0: Successfully compiled asm.js code (total compilation time 34ms)
+1636494586849	geckodriver	INFO	Listening on 127.0.0.1:49957
+1636494587215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43565" "-no-remote" "-profile" "/tmp/rust_mozprofile5EffxC"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636494587554	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5EffxC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43565/devtools/browser/94f4a261-b894-43ac-8eb0-232f0a1aee52
+1636494588439	Marionette	INFO	Listening on port 37631
+1636494588554	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+1636494590073	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonmail.com/d8b4876e-38b1-4a18-bb7e-8b7f888520f2, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://account.protonmail.com/d8b4876e-38b1-4a18-bb7e-8b7f888520f2, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonmail.com/d8b4876e-38b1-4a18-bb7e-8b7f888520f2, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+1636494592885	Marionette	INFO	Stopped listening on port 41891
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://mail.protonmail.com/bf2603f8-5d38-40ca-9d32-3f237a00694c, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://mail.protonmail.com/bf2603f8-5d38-40ca-9d32-3f237a00694c, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://mail.protonmail.com/bf2603f8-5d38-40ca-9d32-3f237a00694c, line 0: Successfully compiled asm.js code (total compilation time 41ms)
+1636494725840	geckodriver	INFO	Listening on 127.0.0.1:59205
+1636494726206	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "32855" "-no-remote" "-profile" "/tmp/rust_mozprofile74Umqy"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636494726548	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile74Umqy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:32855/devtools/browser/8e72660a-ec31-4c21-b20b-899a08883abb
+1636494727396	Marionette	INFO	Listening on port 37311
+1636494727417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+1636494728811	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1636494729804	Marionette	INFO	Stopped listening on port 37631
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: blob:https://account.protonmail.com/6a0f07ec-8049-4184-ada0-02ac920984e1, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://account.protonmail.com/6a0f07ec-8049-4184-ada0-02ac920984e1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonmail.com/6a0f07ec-8049-4184-ada0-02ac920984e1, line 0: Successfully compiled asm.js code (total compilation time 22ms)
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://mail.protonmail.com/a14c1de9-58f5-4806-97e1-837f1487244a, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/a14c1de9-58f5-4806-97e1-837f1487244a, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/a14c1de9-58f5-4806-97e1-837f1487244a, line 0: Successfully compiled asm.js code (total compilation time 24ms)
+1636494846318	Marionette	INFO	Stopped listening on port 37311
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636494847733	geckodriver	INFO	Listening on 127.0.0.1:56591
+1636494848107	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48037" "-no-remote" "-profile" "/tmp/rust_mozprofileGSGukD"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636494848447	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGSGukD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48037/devtools/browser/568d501a-5805-4109-9bf9-5d7b6a68dd24
+1636494849235	Marionette	INFO	Listening on port 43207
+1636494849356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+1636494850653	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+JavaScript warning: blob:https://account.protonmail.com/e3c5d310-cce1-418c-b71e-8eb83330642d, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://account.protonmail.com/e3c5d310-cce1-418c-b71e-8eb83330642d, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonmail.com/e3c5d310-cce1-418c-b71e-8eb83330642d, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://mail.protonmail.com/be02bff1-d418-4888-b3d6-eab23a983219, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/be02bff1-d418-4888-b3d6-eab23a983219, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/be02bff1-d418-4888-b3d6-eab23a983219, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+1636494966418	Marionette	INFO	Stopped listening on port 43207
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1636494969036	geckodriver	INFO	Listening on 127.0.0.1:37417
+1636494969411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37075" "-no-remote" "-profile" "/tmp/rust_mozprofilee8wRjy"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636494969757	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilee8wRjy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37075/devtools/browser/6b4f98fe-bec7-4ea3-a37a-f47741e8af81
+1636494970781	Marionette	INFO	Listening on port 40363
+1636494970822	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+1636494972185	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonmail.com/d9f47d97-eb95-45a5-8c1a-254f79f6f1ec, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://account.protonmail.com/d9f47d97-eb95-45a5-8c1a-254f79f6f1ec, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonmail.com/d9f47d97-eb95-45a5-8c1a-254f79f6f1ec, line 0: Successfully compiled asm.js code (total compilation time 22ms)
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x680008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://mail.protonmail.com/154af939-e38f-4c52-8887-ef92b46829a8, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/154af939-e38f-4c52-8887-ef92b46829a8, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/154af939-e38f-4c52-8887-ef92b46829a8, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+1636495079363	Marionette	INFO	Stopped listening on port 40363
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636495109670	geckodriver	INFO	Listening on 127.0.0.1:50127
+1636495110039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43285" "-no-remote" "-profile" "/tmp/rust_mozprofileNcJAkq"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636495110377	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNcJAkq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43285/devtools/browser/951b1de9-f916-4077-a9a3-07d375feaf57
+1636495111198	Marionette	INFO	Listening on port 41771
+1636495111254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+1636495112544	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonmail.com/fbf32bc7-e770-4b53-aeef-9849ee07bf32, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://account.protonmail.com/fbf32bc7-e770-4b53-aeef-9849ee07bf32, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonmail.com/fbf32bc7-e770-4b53-aeef-9849ee07bf32, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://mail.protonmail.com/9059ef4f-0779-40cc-a82d-8af71ccd7ef3, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/9059ef4f-0779-40cc-a82d-8af71ccd7ef3, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://mail.protonmail.com/9059ef4f-0779-40cc-a82d-8af71ccd7ef3, line 0: Successfully compiled asm.js code (total compilation time 23ms)
+1636495212852	geckodriver	INFO	Listening on 127.0.0.1:51807
+1636495213218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44647" "-no-remote" "-profile" "/tmp/rust_mozprofilevOK2dl"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636495213562	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevOK2dl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44647/devtools/browser/b7d6c204-9519-4e46-8a1b-2307240889e7
+1636495214452	Marionette	INFO	Listening on port 34101
+1636495215418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636495216603	Marionette	INFO	Stopped listening on port 41771
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 11ms)
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1636495216678	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonmail.com/ef0670ed-ea82-44e3-aecb-afc7e7b41895, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://account.protonmail.com/ef0670ed-ea82-44e3-aecb-afc7e7b41895, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonmail.com/ef0670ed-ea82-44e3-aecb-afc7e7b41895, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://mail.protonmail.com/872c32fd-5854-4467-80d0-b061660ed093, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/872c32fd-5854-4467-80d0-b061660ed093, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://mail.protonmail.com/872c32fd-5854-4467-80d0-b061660ed093, line 0: Successfully compiled asm.js code (total compilation time 23ms)
+1636495293195	Marionette	INFO	Stopped listening on port 34101
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636495294921	geckodriver	INFO	Listening on 127.0.0.1:58375
+1636495295301	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57157" "-no-remote" "-profile" "/tmp/rust_mozprofilew1mpMH"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636495295645	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilew1mpMH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57157/devtools/browser/2942d6a7-5604-4479-a2cc-80620440c6af
+1636495296791	Marionette	INFO	Listening on port 33881
+1636495296813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+1636495298105	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonmail.com/9be2b145-3649-4b3b-b0ca-c684bfa1818d, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://account.protonmail.com/9be2b145-3649-4b3b-b0ca-c684bfa1818d, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonmail.com/9be2b145-3649-4b3b-b0ca-c684bfa1818d, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://mail.protonmail.com/bb001f96-432d-4efa-9dcd-3b5b4242e6be, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/bb001f96-432d-4efa-9dcd-3b5b4242e6be, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://mail.protonmail.com/bb001f96-432d-4efa-9dcd-3b5b4242e6be, line 0: Successfully compiled asm.js code (total compilation time 26ms)
+1636495346135	Marionette	INFO	Stopped listening on port 33881
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1636495359339	geckodriver	INFO	Listening on 127.0.0.1:39497
+1636495359706	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45071" "-no-remote" "-profile" "/tmp/rust_mozprofilewxMHrI"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636495360055	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewxMHrI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45071/devtools/browser/c4884a15-3dde-44a2-8cf7-47d0b994d7ce
+1636495361070	Marionette	INFO	Listening on port 35037
+1636495361117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+1636495362422	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://account.protonmail.com/37b49824-03ad-4207-9efc-4104403d67be, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://account.protonmail.com/37b49824-03ad-4207-9efc-4104403d67be, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonmail.com/37b49824-03ad-4207-9efc-4104403d67be, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://mail.protonmail.com/b63ef9c2-932f-4ada-a900-b64d7aa0eb91, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/b63ef9c2-932f-4ada-a900-b64d7aa0eb91, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/b63ef9c2-932f-4ada-a900-b64d7aa0eb91, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+1636495470494	Marionette	INFO	Stopped listening on port 35037
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636495471989	geckodriver	INFO	Listening on 127.0.0.1:44315
+1636495472357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46019" "-no-remote" "-profile" "/tmp/rust_mozprofile12s4Rs"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636495472700	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile12s4Rs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46019/devtools/browser/7e7fffba-489e-43b2-98ba-fe0f52649fbc
+1636495473529	Marionette	INFO	Listening on port 36141
+1636495473575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+1636495474869	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonmail.com/c5ac5763-dc7a-4a0d-b7a6-c543069a1700, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://account.protonmail.com/c5ac5763-dc7a-4a0d-b7a6-c543069a1700, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonmail.com/c5ac5763-dc7a-4a0d-b7a6-c543069a1700, line 0: Successfully compiled asm.js code (total compilation time 32ms)
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://mail.protonmail.com/afbf6da9-7873-4c77-8cd1-8f5ad3f35fc9, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/afbf6da9-7873-4c77-8cd1-8f5ad3f35fc9, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://mail.protonmail.com/afbf6da9-7873-4c77-8cd1-8f5ad3f35fc9, line 0: Successfully compiled asm.js code (total compilation time 25ms)
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1636498893700	geckodriver	INFO	Listening on 127.0.0.1:56747
+1636498894069	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49427" "-no-remote" "-profile" "/tmp/rust_mozprofilekz5Nle"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636498894414	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekz5Nle/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49427/devtools/browser/06ef3556-4377-4674-8343-737be729ad18
+1636498895269	Marionette	INFO	Listening on port 34355
+1636498895284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 11ms)
+1636498896576	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+JavaScript warning: blob:https://account.protonmail.com/22b7f48b-b3a6-45e8-bee7-293283b6cfa4, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://account.protonmail.com/22b7f48b-b3a6-45e8-bee7-293283b6cfa4, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonmail.com/22b7f48b-b3a6-45e8-bee7-293283b6cfa4, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://mail.protonmail.com/50d5999d-854a-4bd4-a265-12264df29759, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/50d5999d-854a-4bd4-a265-12264df29759, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://mail.protonmail.com/50d5999d-854a-4bd4-a265-12264df29759, line 0: Successfully compiled asm.js code (total compilation time 24ms)
+1636498944805	Marionette	INFO	Stopped listening on port 34355
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1636498966769	geckodriver	INFO	Listening on 127.0.0.1:41449
+1636498967155	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45927" "-no-remote" "-profile" "/tmp/rust_mozprofilebJgO8h"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636498967511	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebJgO8h/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45927/devtools/browser/c708a4a5-be74-4e8c-833b-c961e9c0d1b1
+1636498968616	Marionette	INFO	Listening on port 39087
+1636498968667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+1636498969913	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonmail.com/ccf59b46-3472-4e66-9f9f-70ca3f906f12, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://account.protonmail.com/ccf59b46-3472-4e66-9f9f-70ca3f906f12, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonmail.com/ccf59b46-3472-4e66-9f9f-70ca3f906f12, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://mail.protonmail.com/02f748c0-0453-41c5-92c2-dae488fa887e, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/02f748c0-0453-41c5-92c2-dae488fa887e, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/02f748c0-0453-41c5-92c2-dae488fa887e, line 0: Successfully compiled asm.js code (total compilation time 22ms)
+1636499065510	Marionette	INFO	Stopped listening on port 39087
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1636499067400	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636499107882	geckodriver	INFO	Listening on 127.0.0.1:40097
+1636499108246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44917" "-no-remote" "-profile" "/tmp/rust_mozprofileUbdQpA"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636499108589	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUbdQpA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44917/devtools/browser/334c95ec-e9c5-484a-a861-2b9e8ce1444d
+1636499109432	Marionette	INFO	Listening on port 44387
+1636499109462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+1636499110747	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonmail.com/c56d44cf-9687-4ae6-bd5c-2d826efdb084, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://account.protonmail.com/c56d44cf-9687-4ae6-bd5c-2d826efdb084, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonmail.com/c56d44cf-9687-4ae6-bd5c-2d826efdb084, line 0: Successfully compiled asm.js code (total compilation time 22ms)
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://mail.protonmail.com/40dffcc0-3226-4080-864b-ba312e3a8b93, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/40dffcc0-3226-4080-864b-ba312e3a8b93, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://mail.protonmail.com/40dffcc0-3226-4080-864b-ba312e3a8b93, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+1636499167401	Marionette	INFO	Stopped listening on port 44387
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636499220751	geckodriver	INFO	Listening on 127.0.0.1:42441
+1636499221122	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47295" "-no-remote" "-profile" "/tmp/rust_mozprofileGZGzaC"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636499221474	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGZGzaC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47295/devtools/browser/f1f3a674-de17-4de7-ac82-97cc0aa16a0d
+1636499222301	Marionette	INFO	Listening on port 36149
+1636499222332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+1636499223648	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonmail.com/31dc0e7a-459d-4034-8c55-06ba297aed1b, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://account.protonmail.com/31dc0e7a-459d-4034-8c55-06ba297aed1b, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonmail.com/31dc0e7a-459d-4034-8c55-06ba297aed1b, line 0: Successfully compiled asm.js code (total compilation time 20ms)
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://mail.protonmail.com/07c6371b-2ad3-42ca-b449-e2928d831499, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/07c6371b-2ad3-42ca-b449-e2928d831499, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://mail.protonmail.com/07c6371b-2ad3-42ca-b449-e2928d831499, line 0: Successfully compiled asm.js code (total compilation time 22ms)
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2314))
+1636499336766	Marionette	INFO	Stopped listening on port 36149
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636499423149	geckodriver	INFO	Listening on 127.0.0.1:36635
+1636499423516	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36425" "-no-remote" "-profile" "/tmp/rust_mozprofileMQxanT"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636499423857	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMQxanT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36425/devtools/browser/bb5eec65-3a24-45be-b0a9-543a1624f2d1
+1636499424700	Marionette	INFO	Listening on port 35473
+1636499424727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+1636499426106	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonmail.com/3d51f643-06e1-4cbe-8b36-cfa1237afa67, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://account.protonmail.com/3d51f643-06e1-4cbe-8b36-cfa1237afa67, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonmail.com/3d51f643-06e1-4cbe-8b36-cfa1237afa67, line 0: Successfully compiled asm.js code (total compilation time 23ms)
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://mail.protonmail.com/51f49804-74fe-4b05-86e7-b1e425dd43cf, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://mail.protonmail.com/51f49804-74fe-4b05-86e7-b1e425dd43cf, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://mail.protonmail.com/51f49804-74fe-4b05-86e7-b1e425dd43cf, line 0: Successfully compiled asm.js code (total compilation time 53ms)
+1636499486349	Marionette	INFO	Stopped listening on port 35473
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636499511461	geckodriver	INFO	Listening on 127.0.0.1:50221
+1636499511831	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36455" "-no-remote" "-profile" "/tmp/rust_mozprofile5hVppE"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636499512186	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5hVppE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36455/devtools/browser/d018d1c3-74f4-40f1-bcdf-6125de4bc052
+1636499513004	Marionette	INFO	Listening on port 37117
+1636499513042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+1636499514245	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonmail.com/871fc35c-00ee-410a-bb65-2f8127969fc3, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonmail.com/871fc35c-00ee-410a-bb65-2f8127969fc3, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonmail.com/871fc35c-00ee-410a-bb65-2f8127969fc3, line 0: Successfully compiled asm.js code (total compilation time 23ms)
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://mail.protonmail.com/2f386599-8804-4ccb-a824-a9717e30baf1, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/2f386599-8804-4ccb-a824-a9717e30baf1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://mail.protonmail.com/2f386599-8804-4ccb-a824-a9717e30baf1, line 0: Successfully compiled asm.js code (total compilation time 22ms)
+1636499560358	Marionette	INFO	Stopped listening on port 37117
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636499624793	geckodriver	INFO	Listening on 127.0.0.1:56993
+1636499625171	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45183" "-no-remote" "-profile" "/tmp/rust_mozprofile3UWCId"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636499625530	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3UWCId/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45183/devtools/browser/189da31e-b824-4288-8292-bb6b277a452e
+1636499626543	Marionette	INFO	Listening on port 33927
+1636499626586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+1636499627849	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonmail.com/e28a22d7-5e4b-4b48-90c9-168fe13da4a1, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://account.protonmail.com/e28a22d7-5e4b-4b48-90c9-168fe13da4a1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonmail.com/e28a22d7-5e4b-4b48-90c9-168fe13da4a1, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://mail.protonmail.com/dca01b5d-3463-45ce-8a11-289060c0a22e, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/dca01b5d-3463-45ce-8a11-289060c0a22e, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://mail.protonmail.com/dca01b5d-3463-45ce-8a11-289060c0a22e, line 0: Successfully compiled asm.js code (total compilation time 24ms)
+1636499766484	Marionette	INFO	Stopped listening on port 33927
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636499841492	geckodriver	INFO	Listening on 127.0.0.1:59175
+1636499841863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38967" "-no-remote" "-profile" "/tmp/rust_mozprofile9FQYC8"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636499842229	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9FQYC8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38967/devtools/browser/0f9b82cf-2b88-4cb2-99b9-b6f6178bbc4e
+1636499843463	Marionette	INFO	Listening on port 33479
+1636499843481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+1636499844782	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+JavaScript warning: blob:https://account.protonmail.com/281d01a9-9ff7-43c7-92a4-05f1c3d365f1, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://account.protonmail.com/281d01a9-9ff7-43c7-92a4-05f1c3d365f1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonmail.com/281d01a9-9ff7-43c7-92a4-05f1c3d365f1, line 0: Successfully compiled asm.js code (total compilation time 24ms)
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://mail.protonmail.com/5056d094-f759-4815-8efc-a4e0bb16b274, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/5056d094-f759-4815-8efc-a4e0bb16b274, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://mail.protonmail.com/5056d094-f759-4815-8efc-a4e0bb16b274, line 0: Successfully compiled asm.js code (total compilation time 31ms)
+1636499898033	Marionette	INFO	Stopped listening on port 33479
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636499923909	geckodriver	INFO	Listening on 127.0.0.1:47889
+1636499924280	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38981" "-no-remote" "-profile" "/tmp/rust_mozprofiley66Ucq"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636499924626	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiley66Ucq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38981/devtools/browser/ae0cde0e-4b41-4955-a3db-b8937ee2a5c3
+1636499925590	Marionette	INFO	Listening on port 42647
+1636499925691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 14ms)
+1636499927117	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonmail.com/977dd93f-02da-486f-b4e3-9847ec0199a7, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://account.protonmail.com/977dd93f-02da-486f-b4e3-9847ec0199a7, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonmail.com/977dd93f-02da-486f-b4e3-9847ec0199a7, line 0: Successfully compiled asm.js code (total compilation time 22ms)
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+JavaScript warning: blob:https://mail.protonmail.com/5eab49f4-81c5-444a-84e6-22162a63036e, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://mail.protonmail.com/5eab49f4-81c5-444a-84e6-22162a63036e, line 0: Successfully compiled asm.js code (total compilation time 17ms)
+JavaScript warning: blob:https://mail.protonmail.com/5eab49f4-81c5-444a-84e6-22162a63036e, line 0: Successfully compiled asm.js code (total compilation time 97ms)
+1636499996340	Marionette	INFO	Stopped listening on port 42647
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636500025045	geckodriver	INFO	Listening on 127.0.0.1:40177
+1636500025415	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52359" "-no-remote" "-profile" "/tmp/rust_mozprofileoYhxLV"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636500025760	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoYhxLV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52359/devtools/browser/bba3d2be-9c55-466c-ba39-e7b31c45461d
+1636500026762	Marionette	INFO	Listening on port 39293
+1636500026826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 13ms)
+1636500028159	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonmail.com/17a277f7-ef54-4ac8-a998-bba3fd401b4a, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://account.protonmail.com/17a277f7-ef54-4ac8-a998-bba3fd401b4a, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonmail.com/17a277f7-ef54-4ac8-a998-bba3fd401b4a, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://mail.protonmail.com/de4518a2-b409-43ac-8231-7a413e1fd960, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/de4518a2-b409-43ac-8231-7a413e1fd960, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://mail.protonmail.com/de4518a2-b409-43ac-8231-7a413e1fd960, line 0: Successfully compiled asm.js code (total compilation time 42ms)
+JavaScript error: https://mail.protonmail.com/8890.e66c5b17.chunk.js, line 1: uncaught exception: undefined
+1636500319736	Marionette	INFO	Stopped listening on port 39293
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636500393991	geckodriver	INFO	Listening on 127.0.0.1:53881
+1636500394358	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37195" "-no-remote" "-profile" "/tmp/rust_mozprofilezCwfNv"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636500394700	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezCwfNv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37195/devtools/browser/c5deb3d1-09f4-4c27-8d28-469ce9c6dc65
+1636500395710	Marionette	INFO	Listening on port 39499
+1636500395769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+1636500396998	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonmail.com/1e107ef2-7bfa-49dc-8a0d-0c12b235dfb2, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://account.protonmail.com/1e107ef2-7bfa-49dc-8a0d-0c12b235dfb2, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonmail.com/1e107ef2-7bfa-49dc-8a0d-0c12b235dfb2, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://mail.protonmail.com/index.687bc25d.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://mail.protonmail.com/7f9b94a5-1049-43ef-adc8-f1a9df162ea3, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/7f9b94a5-1049-43ef-adc8-f1a9df162ea3, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://mail.protonmail.com/7f9b94a5-1049-43ef-adc8-f1a9df162ea3, line 0: Successfully compiled asm.js code (total compilation time 24ms)
+1636500536268	Marionette	INFO	Stopped listening on port 39499
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636577928829	geckodriver	INFO	Listening on 127.0.0.1:50253
+1636577929724	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56431" "-no-remote" "-profile" "/tmp/rust_mozprofileCtP88k"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636577930382	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCtP88k/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56431/devtools/browser/9813b956-e277-41df-9dd3-9d59cc3aaaa9
+1636577931580	Marionette	INFO	Listening on port 41697
+1636577931645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/index.ab8a145d.js, line 0: Successfully compiled asm.js code (total compilation time 11ms)
+1636577932957	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://account.protonmail.com/f087a9e8-3e8d-4e6b-b9c3-ddd4d34e0f2b, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://account.protonmail.com/f087a9e8-3e8d-4e6b-b9c3-ddd4d34e0f2b, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonmail.com/f087a9e8-3e8d-4e6b-b9c3-ddd4d34e0f2b, line 0: Successfully compiled asm.js code (total compilation time 22ms)
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://mail.protonmail.com/index.ab8a145d.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://mail.protonmail.com/b6191601-c8cc-4bc1-ae89-f61386b3366b, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/b6191601-c8cc-4bc1-ae89-f61386b3366b, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://mail.protonmail.com/b6191601-c8cc-4bc1-ae89-f61386b3366b, line 0: Successfully compiled asm.js code (total compilation time 31ms)
+JavaScript warning: https://mail.protonmail.com/9351.b9049e4d.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: https://mail.protonmail.com/9351.b9049e4d.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://mail.protonmail.com/9351.b9049e4d.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 33ms)
+1636578040207	Marionette	INFO	Stopped listening on port 41697
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636578118445	geckodriver	INFO	Listening on 127.0.0.1:37683
+1636578118828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57449" "-no-remote" "-profile" "/tmp/rust_mozprofileaLDI52"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636578119239	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaLDI52/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57449/devtools/browser/7b648d59-6dd6-42c4-a7c6-0d3381b9b050
+1636578120275	Marionette	INFO	Listening on port 46455
+1636578120340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/index.ab8a145d.js, line 0: Successfully compiled asm.js code (total compilation time 11ms)
+1636578121898	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonmail.com/ba7aa398-b865-4cab-8859-32952c54966b, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://account.protonmail.com/ba7aa398-b865-4cab-8859-32952c54966b, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonmail.com/ba7aa398-b865-4cab-8859-32952c54966b, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://mail.protonmail.com/index.ab8a145d.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://mail.protonmail.com/ae07501c-07da-4b36-85c5-0d04fd936ae9, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://mail.protonmail.com/ae07501c-07da-4b36-85c5-0d04fd936ae9, line 0: Successfully compiled asm.js code (total compilation time 15ms)
+JavaScript warning: blob:https://mail.protonmail.com/ae07501c-07da-4b36-85c5-0d04fd936ae9, line 0: Successfully compiled asm.js code (total compilation time 68ms)
+JavaScript warning: https://mail.protonmail.com/9351.b9049e4d.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://mail.protonmail.com/9351.b9049e4d.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: https://mail.protonmail.com/9351.b9049e4d.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 40ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://pagead2.googlesyndication.com/bg/2q0GJ59knfpUiBcqMNkQlhFuFKFUZImTUS2OpYfkNjk.js line 1 > eval line 7015 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/2q0GJ59knfpUiBcqMNkQlhFuFKFUZImTUS2OpYfkNjk.js line 1 > eval line 1217 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/2q0GJ59knfpUiBcqMNkQlhFuFKFUZImTUS2OpYfkNjk.js line 1 > eval line 5053 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/2q0GJ59knfpUiBcqMNkQlhFuFKFUZImTUS2OpYfkNjk.js line 1 > eval line 6052 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6JxZOoUR1o3jKlvIC1xEK4PVT34jONQGt3Oa0a98nkQ.js line 1 > eval line 858 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/2q0GJ59knfpUiBcqMNkQlhFuFKFUZImTUS2OpYfkNjk.js line 1 > eval line 2355 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=157511, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=157511, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=137711&s=137812&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D58%263pid%3D&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156212&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D71%263pid%3D&gdpr=1&gdpr_consent=ABCFETYFDJLNBFCV&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=157511, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156212&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D71%263pid%3D&gdpr=1&gdpr_consent=ABCFETYFDJLNBFCV&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=137711&s=137812&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D58%263pid%3D&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=157511, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=137711&s=137812&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D58%263pid%3D&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156212&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D71%263pid%3D&gdpr=1&gdpr_consent=ABCFETYFDJLNBFCV&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=137711&s=137812&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D58%263pid%3D&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156212&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D71%263pid%3D&gdpr=1&gdpr_consent=ABCFETYFDJLNBFCV&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Frtb.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Frtb.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Frtb.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Frtb.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156319&userIdMacro=PM_UID&predirect=https%3A%2F%2Fe.serverbid.com%2Fudb%2F9969%2Fsync%2Fi.gif%3FpartnerId%3D4%26userId%3DPM_UID, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=159196&userIdMacro=PM_UID&gdpr=0&gdpr_consent=&predirect=https%3A%2F%2Flive.primis.tech%2Flive%2FliveCS.php%3Fsource%3Dexternal%26csuuid%3D618c33fdcb27c%26pixel%3D%26advId%3D91%26advUuid%3DPM_UID%26gdpr%3D0%26gdpr_consent%3D, line 1: ReferenceError: CommonMeta is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/2q0GJ59knfpUiBcqMNkQlhFuFKFUZImTUS2OpYfkNjk.js line 1 > eval line 4419 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character U+0001
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=157511, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character U+0001
+JavaScript warning: https://pagead2.googlesyndication.com/bg/2q0GJ59knfpUiBcqMNkQlhFuFKFUZImTUS2OpYfkNjk.js line 1 > eval line 678 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?&p=156423&us_privacy=&predirect=https%3A%2F%2Fcms-xch-chicago.33across.com%2Fmatch%3Fus_privacy%3D%26bidder_id%3D25%26external_user_id%3D, line 1: ReferenceError: CommonMeta is not defined
+
+(firefox:150454): GLib-GObject-CRITICAL **: 16:05:55.874: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:150454): GLib-GObject-CRITICAL **: 16:05:55.874: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:150454): GLib-GObject-CRITICAL **: 16:05:55.874: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:150454): GLib-GObject-CRITICAL **: 16:05:55.874: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:150454): GLib-GObject-CRITICAL **: 16:05:55.874: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:150454): GLib-GObject-CRITICAL **: 16:05:55.876: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:150454): GLib-GObject-CRITICAL **: 16:05:55.925: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:150454): GLib-GObject-CRITICAL **: 16:05:55.926: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:150454): GLib-GObject-WARNING **: 16:05:55.932: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f5c71e092f0' of type 'MaiAtkType139'
+
+(firefox:150454): GLib-GObject-WARNING **: 16:05:55.932: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f5c71e09890' of type 'MaiAtkType139'
+
+(firefox:150454): GLib-GObject-CRITICAL **: 16:05:57.224: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6JxZOoUR1o3jKlvIC1xEK4PVT34jONQGt3Oa0a98nkQ.js line 1 > eval line 3303 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+(firefox:150454): GLib-GObject-CRITICAL **: 16:06:05.222: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:150454): GLib-GObject-CRITICAL **: 16:06:05.222: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:150454): GLib-GObject-CRITICAL **: 16:06:13.256: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:150454): GLib-GObject-CRITICAL **: 16:06:43.542: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://mail.protonmail.com/index.ab8a145d.js, line 1: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6JxZOoUR1o3jKlvIC1xEK4PVT34jONQGt3Oa0a98nkQ.js line 1 > eval line 5489 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.flashtalking.com/xre/514/5140660/3570622/js/j-5140660-3570622.js, line 427: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6JxZOoUR1o3jKlvIC1xEK4PVT34jONQGt3Oa0a98nkQ.js line 1 > eval line 1165 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/2q0GJ59knfpUiBcqMNkQlhFuFKFUZImTUS2OpYfkNjk.js line 1 > eval line 944 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1636578579371	Marionette	INFO	Stopped listening on port 46455
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636578580688	geckodriver	INFO	Listening on 127.0.0.1:58195
+1636578581061	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60437" "-no-remote" "-profile" "/tmp/rust_mozprofileX9x8PN"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1636578581440	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileX9x8PN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60437/devtools/browser/58e0a992-621f-4d82-9f61-a35e26b95c04
+1636578582345	Marionette	INFO	Listening on port 33029
+1636578582371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/index.ab8a145d.js, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+1636578583732	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://account.protonmail.com/index.689f97df.js, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonmail.com/99bb8aa4-771e-46a3-a13c-bf3046c036df, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://account.protonmail.com/99bb8aa4-771e-46a3-a13c-bf3046c036df, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonmail.com/99bb8aa4-771e-46a3-a13c-bf3046c036df, line 0: Successfully compiled asm.js code (total compilation time 23ms)
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+Failed to establish dbus connectionFailed to establish dbus connectionJavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://account-api.protonmail.com/challenge/v4/html?Type=0&Name=login, line 32: WebGL context was lost.
+JavaScript warning: https://mail.protonmail.com/index.ab8a145d.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://mail.protonmail.com/406dd121-8ec4-4950-af82-4b7856ab5fea, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/406dd121-8ec4-4950-af82-4b7856ab5fea, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://mail.protonmail.com/406dd121-8ec4-4950-af82-4b7856ab5fea, line 0: Successfully compiled asm.js code (total compilation time 32ms)
+JavaScript warning: https://mail.protonmail.com/9351.b9049e4d.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://mail.protonmail.com/9351.b9049e4d.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://mail.protonmail.com/9351.b9049e4d.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 33ms)
+1636578684956	Marionette	INFO	Stopped listening on port 33029
