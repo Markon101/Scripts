@@ -20,7 +20,7 @@ for drive in $external_drives; do
     # Mount the drive and tell systemd to automount when available
     mount -t auto -o rw,relatime PARTUUID=$drive_uuid $mount_point
     echo "Drive mounted at $mount_point"
-    systemctl start media-$USER-$drive_uuid.mount.service
+    #systemctl start media-$USER-$drive_uuid.mount.service
 
     # Increment the mount count
     mount_count=$((mount_count + 1))
